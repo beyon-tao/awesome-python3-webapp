@@ -1,15 +1,11 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-'''
-Life is short I use Python!
+__author__ = 'Beyon Lee'
 
-@Author  : Beyon Lee
-@Time    : 18-4-2 下午5:40
-@Software: PyCharm Community Edition
-@FileName: app.py
-@Blog    : 
-@Github  :
+'''
+test async web application
+thanks for Michael Liao
 '''
 
 # 详解－－http://www.cnblogs.com/ontheway703/p/4986804.html
